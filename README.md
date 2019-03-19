@@ -6,7 +6,7 @@
 
 ### 1. Clone the project<br>
 
-> `git clone https://github.com/Abdelhamied404/2heal`
+> `git clone https://github.com/abdelrahman403/healthqo-backend`
 
 <br/>
 

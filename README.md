@@ -1,6 +1,6 @@
-# 2heal
+# healthqo
 
-2heal is a medical community and have much more futures
+healthqo is a medical community and have much more futures
 
 # Installing
 
@@ -12,7 +12,7 @@
 
 ### 2. Cd into the project
 
-> `cd 2heal`
+> `cd healthqo-backend`
 
 <br/>
 

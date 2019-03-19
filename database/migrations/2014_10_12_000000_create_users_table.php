@@ -25,7 +25,6 @@ class CreateUsersTable extends Migration
             $table->string('address');
             $table->string('state');
             $table->string('phone number');
-            $table->string('avatar');
             $table->string('test');
             
         });
